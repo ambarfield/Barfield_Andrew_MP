@@ -1,0 +1,12 @@
+﻿Site_ID,Factor,Figure_URL
+X:\Master's_Project\MP_Data2\Data\Land_Polygon_Data\ARNWR_Polygon.shp,Elevation,
+X:\Master's_Project\MP_Data2\Data\Land_Polygon_Data\ARNWR_Polygon.shp,Inundation Frequency,X:\Master's_Project\MP_Data2\Data\Final_Data_Files\Figure_Outputs\mean_inund_freq.png
+X:\Master's_Project\MP_Data2\Data\Land_Polygon_Data\ARNWR_Polygon.shp,Land Cover Class,
+X:\Master's_Project\MP_Data2\Data\Land_Polygon_Data\ARNWR_Polygon.shp,Distance to Coast,
+X:\Master's_Project\MP_Data2\Data\Land_Polygon_Data\ARNWR_Polygon.shp,Distance to Artificial Drainage,
+,,
+X:\Master's_Project\MP_Data2\Data\Land_Polygon_Data\WRC_GRGL_Polygon.shp,Elevation,
+X:\Master's_Project\MP_Data2\Data\Land_Polygon_Data\WRC_GRGL_Polygon.shp,Inundation Frequency,X:\Master's_Project\MP_Data2\Data\Final_Data_Files\Figure_Outputs\mean_inund_freq_GR.png
+X:\Master's_Project\MP_Data2\Data\Land_Polygon_Data\WRC_GRGL_Polygon.shp,Land Cover Class,
+X:\Master's_Project\MP_Data2\Data\Land_Polygon_Data\WRC_GRGL_Polygon.shp,Distance to Coast,
+X:\Master's_Project\MP_Data2\Data\Land_Polygon_Data\WRC_GRGL_Polygon.shp,Distance to Artificial Drainage,
