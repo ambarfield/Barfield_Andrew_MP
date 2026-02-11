@@ -1,0 +1,6 @@
+Land Cover Class,Pixel Count (Dead),Dead Tree Area (m^2),Total Dead Trees,Live Tree Area (m^2),% Experiencing Mortality
+Deciduous Forest,1,900,1,18000,4.76
+Scrub/Shrub,135,121500,270,601200,16.81
+Palustrine Forested Wetland,3107,2796300,13207,3825900,42.23
+Palustrine Scrub/Shrub Wetland,2237,2013300,8302,2615400,43.50
+Estuarine Scrub/Shrub Wetland,237,213300,698,158400,57.38
