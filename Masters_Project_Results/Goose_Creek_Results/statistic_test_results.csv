@@ -1,0 +1,5 @@
+Variable,Median (Live),Median (Dead),p,r,Sample Size (Live),Sample Size (Dead)
+Inundation Frequency (%),0.09,0.15,< 0.001,0.23,19414,9014
+Elevation (m),0.75,0.55,< 0.001,-0.19,19078,8907
+Distance to Estuary (m),342,400,< 0.001,0.09,19606,9087
+Distance to Artificial Drainage (m),698,690,0.106,0.01,19606,9087
